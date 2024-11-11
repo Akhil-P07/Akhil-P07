@@ -9,7 +9,7 @@
 
 - 🎯 On a mission to make VR feel as real as possible!
 
-- 💬 Ask me about **Python, C#, C and Unity**
+- 💬 Ask me about **Python, C#, and Unity**
 
 - ⚡ Fun fact "If I had a dollar for every time I tried to explain VR to my parents, I'd be able to afford my own VR startup by now!"
 
