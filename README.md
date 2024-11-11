@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-p07&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-p07" /> </p>
 <h3 align="left">About me</h3>
+
 - 🎮 Aspiring VR Developer with a focus on Human-Computer Interaction and haptic technology.
 
 - 💻 Currently building skills in AI and game development, with a vision to create immersive experiences.
