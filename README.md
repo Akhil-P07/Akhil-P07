@@ -6,7 +6,7 @@
 
 - 💻 Currently building skills in AI and game development, with a vision to create immersive experiences.
 
-- 🚀 Top CS student in my class with a strong background in computer science and a passion for impactful projects.
+- 🚀 Top CS student with a strong background in computer science and a passion for impactful projects.
 
 - 🎯 On a mission to make VR feel as real as possible!
 
