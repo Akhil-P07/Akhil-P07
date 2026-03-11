@@ -9,8 +9,13 @@
 - 🎯 On a mission to make VR feel as real as possible!
 
 - 💬 Ask me about **Python, C#, and Unity**
-<h3 align="left">Connect with me? Don't.</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/akhil-palepally-598518274/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+</a>
+</p>
+<h3<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
