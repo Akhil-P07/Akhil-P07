@@ -22,9 +22,7 @@ CS & Economics double major at RIT. I build things to solve my own problems firs
 
 ## GitHub Stats
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil-p07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-p07&layout=compact&theme=tokyonight)
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil-p07&show_icons=true&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-p07&layout=compact&theme=tokyonight)
 
 ## Reach me
 
