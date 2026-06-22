@@ -1,6 +1,6 @@
 # Hi, I'm Akhil 👋
 
-CS & Economics double major at RIT. I build things to solve my own problems first, usually somewhere at the intersection of AI/ML, quant finance, and developer tooling.
+CS & Economics double major at RIT. I build things to solve my own problems first, usually somewhere at the intersection of AI/ML, and developer tooling.
 
 ## What I'm working on
 
@@ -16,7 +16,7 @@ CS & Economics double major at RIT. I build things to solve my own problems firs
 
 - 🎓 Treasurer of the RIT AI Club
 
-- 💹 Into competitive programming (Codeforces), quant finance, Human-Computer Interaction and ML
+- 💹 Into competitive programming (Codeforces), quant finance, Human-Computer Interaction and AI
 
 - 🎯 Currently grinding NeetCode 150 and an AI engineering track
 
